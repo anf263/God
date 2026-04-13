@@ -622,4 +622,6 @@
         }, 60000);
     </script>
 </body>
-</html>
+</html># Create repo, upload file, enable GitHub Pages
+# Access at: https://yourusername.github.io/repo/betting_dashboard_iphone.htmlpython3 -m http.server 8080
+# On same WiFi, iPhone can access: http://[your-computer-ip]:8080
